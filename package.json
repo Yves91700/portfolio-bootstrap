@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-bootstrap",
+  "version": "1.0.0",
+  "description": "création d'un portfolio avec Bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "sass": ""
+  },
+  "author": "Yves PIERRE",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
